@@ -40,7 +40,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Visual%20Studio-blueviolet?style=for-the-badge&logo=visualstudio">
   <img src="https://img.shields.io/badge/CUDA-green?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
