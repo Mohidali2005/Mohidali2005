@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohidali2005&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Mohidali2005&theme=radical&hide_border=false" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
   <a href="https://github.com/Mohidali2005">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="www.linkedin.com/in/mohid-ali-b19249249">
+  <a href="https://www.linkedin.com/in/mohid-ali-b19249249">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
