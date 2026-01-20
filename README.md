@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohidali2005&show_icons=true&theme=radical" />
