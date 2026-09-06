@@ -19,6 +19,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
@@ -35,7 +36,6 @@
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge">
   <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge">
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
